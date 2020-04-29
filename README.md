@@ -1,2 +1,2 @@
 # GOVKore
-GoVKore
+Advanced VK Bot platform
