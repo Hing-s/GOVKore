@@ -1,0 +1,21 @@
+{
+	"bots" :
+	[
+		{
+			"token": "",
+			"names": ["bot"],
+			"v": "5.101",
+			"is_group": 0,
+			"bot_id": 2,
+			"main": 2
+		},
+		{
+			"token": "",
+			"names": ["bot"],
+			"v": "5.101",
+			"is_group": 1,
+			"bot_id": 1,
+			"main": 2
+		}
+	]
+}
